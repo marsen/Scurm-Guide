@@ -61,7 +61,11 @@ Q2. 跨職能團隊要具備所有能力，在大的目標上有點不現實，�
 Q3. 同上，現有人才技能無法互相 Cover 怎麼辦 ? 一棒傳一棒的開發方式變成了 mini waterfall，最後一棒永遠沒有足夠的時間。
 
 Q4. 組織改組時，即有的團隊組織，Scrum Team 會讓會議過多。
+
+Q5. 參考 Soptify 的架構，如下「讀書會」「Side Project」「Scrum Team」「部門」…這樣的組織結構或許理想，但是有多少項目真的能指向商業目標 ? 說難聽一點變成時裝秀，每個 Team 都要上台表演一下「我們敏捷了」「心態變了，速度感就起來了」「我們要推行TDD」… etc，
 {% endhint %}
+
+![](.gitbook/assets/screen-shot-2013-11-09-at-7.30.08-am-1024x644.png)
 
 ### Scrum Master
 
