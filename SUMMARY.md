@@ -16,6 +16,7 @@
 
 * [Day 1](csm-shang/day-1.md)
 * [Day 2](csm-shang/day2.md)
+* [Day 2.1](csm-shang/day-2.1.md)
 * [Day 2.5](csm-shang/day-2.5.md)
 
 ## 其它補充資料

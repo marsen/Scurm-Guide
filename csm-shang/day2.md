@@ -104,7 +104,5 @@ description: >-
 
 ![](../.gitbook/assets/54aa25c4-95c4-471f-a479-52c3e510d300.jpg)
 
-### Daily Scrum
-
 ![&#x597D;&#x50CF;&#x6709;&#x9EDE;&#x61C2;&#x4E86;&#xFF0C;&#x53C8;&#x6709;&#x9EDE;&#x4E0D;&#x61C2;&#x2026;](../.gitbook/assets/ying-mu-xie-qu-hua-mian-110218123133am.jpg)
 
