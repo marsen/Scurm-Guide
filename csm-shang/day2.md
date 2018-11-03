@@ -4,9 +4,11 @@ description: >-
   只有在完整的時候才會存在，也才能有效的成為其他技巧、方法論、和實務發揮的運作舞臺。--- Scrum Guide 結語
 ---
 
-# Day 2
+# Day 2.1
 
-### Planning \(with 2~4 hours timebox\)
+## Planning \(with 2~4 hours timebox\)
+
+### Planning
 
 #### Planning 第一階段
 
@@ -14,6 +16,19 @@ description: >-
 * 對Item估點。
   * 基於 Velocity
   * 基於 Commitment
+
+#### 估計的方法
+
+有 Size \(大、中、小\) 或點數\(Story Point、Planning Poker\)等方法，實務上都使用點數較多，原因是多個項目的加總，在比較時點數較有感覺。
+
+參考下例：  
+Sprint 1 有 4 個 Item，Size 是分別是大、大、中、小。點數分別是 13、13、5、2。  
+Sprint 2 有 5 個 Item，Size 是分別是大、中、中、中、小。點數分別是 13、8、8、5、1。
+
+| Sprint | Size | 點數 |
+| :--- | :--- | :--- |
+| Sprint 1 | 2大、1中、1小 | 13+13+5+2 = 33 |
+| Sprint 2 | 1大、3中、1小 | 13+8+8+5+1 = 35 |
 
 > Velocity-Driven 或 Commitment-Driven 哪個比較好呢？  
 > 大多數的 Scrum Master 恐怕會跟你說團隊決定。  
@@ -82,7 +97,8 @@ description: >-
 ![OKR in Scrum](../.gitbook/assets/a65ea48e-fbc4-4c0d-ae7a-051ff11e5cfd.jpg)
 
 > 我對 OKR 與 Sprint Goal 的認知。  
-> 不難理解為什麼 RD 會覺得干我屁事，又沒加薪也沒獎金，用口說就能讓人激勵人心太難了。  
+> 不難理解為什麼 RD 會覺得干我屁事，~~又沒加薪也沒獎金，  
+> 看了兩本書、用口說說就能讓人激勵人心太不且實際了~~。  
 > 比如說：[作功德](https://www.ettoday.net/news/20171125/1059745.htm)，最後反而會讓第一線人當成幹話，幹話聽多了失去信任就更糟糕了。
 
 #### Team
