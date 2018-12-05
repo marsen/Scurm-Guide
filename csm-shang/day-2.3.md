@@ -87,7 +87,7 @@ Scrum Master 的責任
     > 再透過持續整合\(CI\)的實踐，避免後面的改動，影響到前面。
     >
     >   
-    > 實務上，除了團隊很喜歡作這類的實踐，更常是團隊作不到 Done，在 Retrospective 來趨動改善的過程，為了解決問題。
+    > 實務上，一種是團隊很喜歡作這類的實踐與改變，另一種更多是團隊作不到 Done，在 Retrospective 階段來趨動改善的過程，為了解決問題。
 
 ```text
 Question:
@@ -95,7 +95,27 @@ Question:
 2. 沒有持續集成(CI)，或是 CI 不包含自動化測試怎麼辦？
     - 如何快速寫出一個自動化測試試？
 3. 
+** 
 ```
 
-問一個問題，**什麼讓我們慢下來**？，**什麼讓我們不能更快？**
+問一個問題，**「什麼讓我們慢下來**？，**什麼讓我們不能更快？」**
+
+通常第一線的人員\(Developer\)不覺得慢是一個問題，甚至不會在 Retrospective 提出。Scrum Master 的職責是找到這個問題。
+
+小結：
+
+* Scrum Master 要讓團隊與PO深入理解 Scrum 
+* Scrum Master 要保護羊群\(團隊\)，因為會有狼\(插件or something...，或是羊群裡有狼\)
+* Scrum Master 不作決策，更多是關心決策的過程甚於決策本身
+* 具有生產力的團隊就是 Scrum Master 的產出
+* Scrum Master 要發揮影響力\(知易行難，怎麼作？\)
+
+參考：
+
+* [https://blog.marsen.me/2018/11/18/2018/csm/91app\_scrum\_masters\_growth\_camp/](https://blog.marsen.me/2018/11/18/2018/csm/91app_scrum_masters_growth_camp/)
+* [https://blog.marsen.me/2018/07/15/books/book\_the\_great\_scurm\_master\_ch1/](https://blog.marsen.me/2018/07/15/books/book_the_great_scurm_master_ch1/)
+
+### Product Backlog
+
+
 
