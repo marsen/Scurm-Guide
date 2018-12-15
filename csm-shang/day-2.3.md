@@ -104,18 +104,108 @@ Question:
 
 小結：
 
-* Scrum Master 要讓團隊與PO深入理解 Scrum 
-* Scrum Master 要保護羊群\(團隊\)，因為會有狼\(插件or something...，或是羊群裡有狼\)
+* Scrum Master 要讓團隊與 PO 深入理解 Scrum 
+* Scrum Master 就像是牧羊犬要保護羊群\(團隊\)，因為會有狼\(插件or something...，或是羊群裡有狼\)
 * Scrum Master 不作決策，更多是關心決策的過程甚於決策本身
 * 具有生產力的團隊就是 Scrum Master 的產出
 * Scrum Master 要發揮影響力\(知易行難，怎麼作？\)
 
+### 情境題
+
+避免爆雷，不描述課堂上的情境，但是將一些原則列下:
+
+1. 很多人第一時間會找 Scrum Master 問問題。
+   * 這是好事  Scrum Master 要發揮影響力
+   * Scrum Master 可以籍些說明 Scrum 在作什麼，團隊是怎麼運作的。
+   * Scrum Master 不作決策更關注過程。
+   * 不要急著解決問題。
+2. Product Owner 要基於 Product Value 作排序
+   * 如果要最大化價值，一個產品就一個 Product Backlog，不管是多少個 Team。
+   * 一個插件有幾種可能
+     * 放進下面幾個 Sprint Backlog。
+     * 放進 Product Backlog。
+     * 很異常的情況，才會終止 Sprint。
+   * Scrum Master 要關注 Root Cause 
+3. 保持團隊與 Product Owner 的連結
+   * 有時候 Product Owner 也身不由已。
+   * 如果 Product Owner 不在決策圈或未被授權，要了解背後的原因。
+   * 如果 Product Owner 太忙，想辦法減輕他的壓力。
+   * 如果 Product Owner 有別的角色\(Sales、Boss…\)，找個適合的人作 Product Owner。
+   * 改變文化 改變組織 改變作法。
+4. 讓 Product Backlog 作為團隊工作項目唯一的入口
+5. 在不被 fire 的情況下，對組織帶來改變與價值！要有勇氣。
+6. 不要讓團隊與 Product Owner 成為甲方乙方。
+7. 讓團隊自已挑選工作，而不是分派工作。
+8. 觀注事實。
+   * 團隊的 Velocity 
+   * 上個 Sprint 完成的點數
+   * 誠實面對失敗\( _柯語錄:面對挫折打擊不是最困難的；最困難的是面對各種挫折打擊，卻沒有失去對人世的熱情_\)。
+   * 思考著如何讓 Product 的 Impact 發生
+     * 昧著事實去滿足時程與範圍，可能會為此喪失品質與生產力\(欠債…\)。
+     * 找到正道，但是也許會更花時間。
+     * Change Your Company。
+   * 觀注 Product  的成功勝於作了多少工作。
+   * 盲人摸象的故事，每個人都對，也都不對。
+
+### Part-time or Full-time
+
+Scrum Master 觀注改進，同時兼任多個角色時，容易陷入可量化產出的角色之中。  
+要想辦法讓 Scrum Master 的工作可視化，不然容易淪為開會召集人或訂訂便當與飲料的角色。  
+實踐：
+
+* 使用 Scrum Master Check List [http://scrummasterchecklist.org/](http://scrummasterchecklist.org/) 。
+* 建立 Scrum Master 的改善 Impact Backlog，並且設定優先級。
+* 按優先級逐步的改善。
+* 尋找一組 Scrum Master 彼此討論與評量，讓這個流程形成一個循環。
+* Less 的解決方式是 Full-time Scrum Master 兼任多個 Team。
+
+相同的作法，對不同的 Team 不一定有用， Scrum Master 如果能接觸不同的團隊是好的。或是從其它 Scrum Master 汲取經驗。
+
+### 呂毅老師的實務分享
+
+常見一個問題，Product Owner 常常單向對 Team 輸入訊息，導致最後的結果與 Product Owner 的想法有落差。
+
+一些壞味道
+
+* Planning 的時候大家「帶電腦」作自已的事或是在「滑手機」。
+* 開會人數太多，部份人在討論時，其它人放空。
+
+Solution：
+
+* 讓成員不要帶電腦，收走手機
+* Product Owner 講完換 Team 講
+* 測試
+* 拆散小組至2-3人
+  * 有點類似 Lean Coffee 的作法，讓團隊拆成小組討論 。
+  * PO 輪流在小組之間被問問題。
+  * 如果等不到 PO 可以先寫在便利貼貼到白板上。
+  * 設定 Time Box ，時間到請 PO 回答問題。
+
+### Ending
+
+不要反射性的去解決問題，讓子彈飛一會兒…。
+
+* 讓問題變透明，讓團隊看見問題
+* 不急著干預，試著讓團隊自行解決問題 
+* 讓 Team 與 PO 直接交流，不要成為 PO 與 Team 的傳話筒。
+* 要保持「意識」，不要條件反射去干預，要克服這個心魔。
+
+Real Team 
+
+* 所有人的目標是一致的，而不是臨時組成的一群人。
+* 俱備 End to End 的完整。
+* 有限的人數，Scrum 建議 5~9 人。
+* Mutual accountability 
+* Agreed way of working
+
+一個好的 Scrum Master 的產品是 Well-Working Team， 這需要時間\(以年計算…\)。  
+如何打造一個 Team ，這比 Scrum Maser 有更多的討論，但是實務上在成為 Scrum Master 時，大多數人打造 Team 的基本功是缺乏的\(彼得原理？\)，這需要更多的學習…
+
 參考：
 
-* [https://blog.marsen.me/2018/11/18/2018/csm/91app\_scrum\_masters\_growth\_camp/](https://blog.marsen.me/2018/11/18/2018/csm/91app_scrum_masters_growth_camp/)
-* [https://blog.marsen.me/2018/07/15/books/book\_the\_great\_scurm\_master\_ch1/](https://blog.marsen.me/2018/07/15/books/book_the_great_scurm_master_ch1/)
-
-### Product Backlog
+* [\[N社筆記\] 敏捷路上跌倒站起來 2018/11/1](https://blog.marsen.me/2018/11/18/2018/csm/91app_scrum_masters_growth_camp/)
+* [\[閱讀筆記\] The Great Scrum Master 第一章](https://blog.marsen.me/2018/07/15/books/book_the_great_scurm_master_ch1/)
+* [The role of the Scrum Master – Part I](https://stayrelevant.globant.com/en/the-role-of-the-scrum-master-part-i/)
 
 
 
