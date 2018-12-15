@@ -198,6 +198,8 @@ Real Team
 * Mutual accountability 
 * Agreed way of working
 
+![Scrum Team &#x662F;&#x81EA;&#x7D44;&#x7E54;&#x7684;&#x5718;&#x968A;](../.gitbook/assets/ying-mu-xie-qu-hua-mian-121618120401am.jpg)
+
 一個好的 Scrum Master 的產品是 Well-Working Team， 這需要時間\(以年計算…\)。  
 如何打造一個 Team ，這比 Scrum Maser 有更多的討論，但是實務上在成為 Scrum Master 時，大多數人打造 Team 的基本功是缺乏的\(彼得原理？\)，這需要更多的學習…
 
